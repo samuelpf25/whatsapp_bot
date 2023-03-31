@@ -1,0 +1,28 @@
+2023/03/31-16:41:02.510 4114 Reusing MANIFEST e:\2-DOCUMENTOS ESTUDOS-TRABALHO\TRABALHO\Estudo Profissional\Programacao\HTML-CSS-JS\whatsapp_wpp\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/31-16:41:02.510 4114 Recovering log #646
+2023/03/31-16:41:02.547 4114 Reusing old log e:\2-DOCUMENTOS ESTUDOS-TRABALHO\TRABALHO\Estudo Profissional\Programacao\HTML-CSS-JS\whatsapp_wpp\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000646.log 
+2023/03/31-16:41:13.514 3ebc Level-0 table #659: started
+2023/03/31-16:41:13.924 3ebc Level-0 table #659: 1302153 bytes OK
+2023/03/31-16:41:13.987 3ebc Delete type=0 #646
+2023/03/31-16:41:14.311 3db0 Compacting 1@1 + 9@2 files
+2023/03/31-16:41:14.676 3db0 Generated table #660@1: 101144 keys, 2254134 bytes
+2023/03/31-16:41:15.132 3db0 Generated table #661@1: 42483 keys, 2501549 bytes
+2023/03/31-16:41:15.424 3db0 Generated table #662@1: 19269 keys, 2177923 bytes
+2023/03/31-16:41:15.627 3db0 Generated table #663@1: 16097 keys, 2167807 bytes
+2023/03/31-16:41:15.816 3db0 Generated table #664@1: 95541 keys, 2243505 bytes
+2023/03/31-16:41:15.996 3db0 Generated table #665@1: 119377 keys, 2270386 bytes
+2023/03/31-16:41:16.279 3db0 Generated table #666@1: 119285 keys, 2270489 bytes
+2023/03/31-16:41:16.477 3db0 Generated table #667@1: 119246 keys, 2269903 bytes
+2023/03/31-16:41:16.601 3db0 Generated table #668@1: 12408 keys, 237493 bytes
+2023/03/31-16:41:16.601 3db0 Compacted 1@1 + 9@2 files => 18393189 bytes
+2023/03/31-16:41:16.650 3db0 compacted to: files[ 0 0 9 0 0 0 0 ]
+2023/03/31-16:41:16.650 3db0 Delete type=2 #648
+2023/03/31-16:41:16.650 3db0 Delete type=2 #649
+2023/03/31-16:41:16.650 3db0 Delete type=2 #650
+2023/03/31-16:41:16.650 3db0 Delete type=2 #651
+2023/03/31-16:41:16.650 3db0 Delete type=2 #652
+2023/03/31-16:41:16.650 3db0 Delete type=2 #653
+2023/03/31-16:41:16.650 3db0 Delete type=2 #654
+2023/03/31-16:41:16.650 3db0 Delete type=2 #655
+2023/03/31-16:41:16.650 3db0 Delete type=2 #656
+2023/03/31-16:41:16.650 3db0 Delete type=2 #659
